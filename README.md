@@ -21,7 +21,7 @@ For Windows
 python map.py
 ```
 
-Outputs japlanning.html
+Outputs japlanning_map.html
 
 ## Requirements
 
